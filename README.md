@@ -62,6 +62,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bimal-kc-993707216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/bimal.kshetri.3111/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/bimalkh80249679"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/bimal.311/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC1sIbY9m3sxOg8f6K_YIM0Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
